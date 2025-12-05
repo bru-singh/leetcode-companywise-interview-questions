@@ -10,7 +10,7 @@ ID,URL,Title,Difficulty,Acceptance %,Frequency %,status
 9,https://leetcode.com/problems/palindrome-number,Palindrome Number,Easy,59.9%,62.5%,done
 20,https://leetcode.com/problems/valid-parentheses,Valid Parentheses,Easy,43.2%,62.5%,done
 153,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array,Find Minimum in Rotated Sorted Array,Medium,53.4%,62.5%,not done
-1347,https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram,Minimum Number of Steps to Make Two Strings Anagram,Medium,82.4%,50.0%,not done
+1347,https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram,Minimum Number of Steps to Make Two Strings Anagram,Medium,82.4%,50.0%,done
 253,https://leetcode.com/problems/meeting-rooms-ii,Meeting Rooms II,Medium,52.4%,87.5%,not done
 419,https://leetcode.com/problems/battleships-in-a-board,Battleships in a Board,Medium,77.1%,50.0%,done
 739,https://leetcode.com/problems/daily-temperatures,Daily Temperatures,Medium,67.9%,50.0%,done
@@ -20,8 +20,8 @@ ID,URL,Title,Difficulty,Acceptance %,Frequency %,status
 1202,https://leetcode.com/problems/smallest-string-with-swaps,Smallest String With Swaps,Medium,60.1%,75.0%,not done
 14,https://leetcode.com/problems/longest-common-prefix,Longest Common Prefix,Easy,46.5%,87.5%,not done
 1335,https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule,Minimum Difficulty of a Job Schedule,Hard,59.7%,87.5%,not done
-3370,https://leetcode.com/problems/smallest-number-with-all-set-bits,Smallest Number With All Set Bits,Easy,80.3%,62.5%,not done
-26,https://leetcode.com/problems/remove-duplicates-from-sorted-array,Remove Duplicates from Sorted Array,Easy,61.6%,62.5%,not done
+3370,https://leetcode.com/problems/smallest-number-with-all-set-bits,Smallest Number With All Set Bits,Easy,80.3%,62.5%,done
+26,https://leetcode.com/problems/remove-duplicates-from-sorted-array,Remove Duplicates from Sorted Array,Easy,61.6%,62.5%,done
 3289,https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville,The Two Sneaky Numbers of Digitville,Easy,89.9%,50.0%,not done
 2858,https://leetcode.com/problems/minimum-edge-reversals-so-every-node-is-reachable,Minimum Edge Reversals So Every Node Is Reachable,Hard,56.2%,75.0%,not done
 41,https://leetcode.com/problems/first-missing-positive,First Missing Positive,Hard,41.9%,50.0%,not done
